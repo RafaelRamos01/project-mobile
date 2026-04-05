@@ -54,7 +54,7 @@ Relatórios Detalhados: Métricas de senhas emitidas e atendidas por prioridade.
 
 Versões e Créditos
 Versão: Atualmente na Versão 05 (19/06/2025).
-Autor: João Ferreira.
+Docente: João Ferreira.
 Instituição: UNINASSAU.
 gurpo: Arthur Cabral 01810694; André Alisson Chalegre de Lima - 01854549; Otavio Martins - 01782584; Rafael Ramos - 01563278
 exemplos da interface do programa:
