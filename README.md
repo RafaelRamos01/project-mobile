@@ -58,6 +58,7 @@ Autor: João Ferreira.
 Instituição: UNINASSAU.
 gurpo: Arthur Cabral 01810694; André Alisson Chalegre de Lima - 01854549; Otavio Martins - 01782584; Rafael Ramos - 01563278
 exemplos da interface do programa:
+
 ![MobileTicketsIonic1](https://github.com/user-attachments/assets/915e4b58-a164-4de6-a280-4f20dc10539a)
 ![MobileTicketsIonic2](https://github.com/user-attachments/assets/6d659d49-4293-4c4b-8932-202f7d58c425)
 ![MobileTicketsIonic3](https://github.com/user-attachments/assets/9f2dca28-b3d1-49a3-9e9c-7c8235790c6b)
